@@ -12,23 +12,6 @@ It demonstrates:
 - Pydantic validation
 - Swagger API testing
 
----
-
-## 🚀 Features
-
-✅ GET APIs  
-✅ POST APIs  
-✅ PUT APIs  
-✅ DELETE APIs  
-✅ Pydantic Validation  
-✅ Helper Functions  
-✅ Search APIs  
-✅ Sorting APIs  
-✅ Pagination APIs  
-✅ Cart Workflow  
-✅ Checkout System  
-
----
 
 ## 🛠️ Tech Stack
 
